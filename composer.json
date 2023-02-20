@@ -21,7 +21,7 @@
     },
     "require": {
         "php": "^7.4|^8.0",
-        "yiisoft/translator": "^1.0",
+        "yiisoft/translator": "^3.0",
         "ext-gettext": "*"
     },
     "require-dev": {
